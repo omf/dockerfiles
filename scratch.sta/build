@@ -1,0 +1,3 @@
+gcc -static main.c -o hello
+docker build -t scratch.static .
+
